@@ -1,3 +1,9 @@
+![Unity](https://img.shields.io/badge/Engine-Unity_2022.3-blue?logo=unity)
+![Microcontroller](https://img.shields.io/badge/Hardware-ESP8266-lightgrey)
+![Protocol](https://img.shields.io/badge/Communication-UDP-green)
+![Platform](https://img.shields.io/badge/Platform-Real%20Sensors%20%2B%20Unity-brightgreen)
+![Status](https://img.shields.io/badge/Project%20Status-Completed-success)
+
 # 🤖 UnitySense — Real-Time Sensor-Driven Unity Control
 
 A real-time robotic control system powered by physical sensors integrated into a 3D Unity environment. This project uses ESP8266 to send data over Wi-Fi via UDP, controlling a robot, opening doors, and displaying sensor outputs live in-game.
