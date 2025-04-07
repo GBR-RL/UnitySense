@@ -15,7 +15,7 @@ Here’s a glimpse of the real-time interaction between physical sensors and the
 The ESP8266 sends live sensor data over Wi-Fi, which is then used to control the robot, trigger doors, and update the temperature display.
 
 <p align="center">
-  <img src="assets/demo.gif" alt="UnitySense Demo" width="600"/>
+  <img src="asset/demo.gif" alt="UnitySense Demo" width="600"/>
 </p>
 
 > ✅ The robot moves using gyroscope & encoder inputs  
